@@ -1,0 +1,10 @@
+phidata
+python-dotenv
+yfinance
+packaging
+duckduckgo-search  #tool for agent to do any kind of websearch
+fastapi
+uvicorn
+groq
+openai
+phi
