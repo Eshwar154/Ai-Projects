@@ -1,0 +1,4 @@
+llama-index
+openai
+pypdf
+python-dotenv ##to load env variable this lib is used
