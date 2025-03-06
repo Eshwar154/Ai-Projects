@@ -1,0 +1,24 @@
+# Dart dependencies
+.dart_tool/
+.packages
+
+# Flutter build artifacts
+build/
+android/app/debug.keystore
+
+# iOS/macOS Flutter
+ios/Pods/
+ios/.generated/
+macos/.generated/
+
+# VS Code settings
+.vscode/
+
+# Generated files
+pubspec.lock
+
+# Environment variables
+.env
+
+# Assets (optional: if you want to ignore large media files)
+assets/raw_audio_samples/

@@ -1,0 +1,2 @@
+C:/Users/Eshwar Paygude/AI-Projects/GenAi Projects/SpeakCoachAI/frontend/verbal_skills_trainer/android/app/.cxx/Debug/l35q4w3x/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Eshwar Paygude/AI-Projects/GenAi Projects/SpeakCoachAI/frontend/verbal_skills_trainer/android/app/.cxx/Debug/l35q4w3x/armeabi-v7a/CMakeFiles/rebuild_cache.dir

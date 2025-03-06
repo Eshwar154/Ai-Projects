@@ -1,0 +1,14 @@
+openai
+python-dotenv
+SpeechRecognition
+pyttsx3
+pydub
+gtts
+fastapi
+uvicorn
+speechrecognition
+pydantic
+python-dotenv
+google-cloud-texttospeech
+google-cloud-speech
+numpy
